@@ -118,6 +118,7 @@
           "rvest.vs-code-prettier-eslint",
           "ritwickdey.LiveServer",
           "mtxr.sqltools",
+          "mtxr.sqltools-driver-pg",
           "samuelcolvin.jinjahtml",
           "formulahendry.auto-rename-tag",
           "formulahendry.auto-close-tag",
